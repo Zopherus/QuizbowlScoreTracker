@@ -1,0 +1,9 @@
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\bin\Debug\QuizbowlScoreTracker.exe.config
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\bin\Debug\QuizbowlScoreTracker.exe
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\bin\Debug\QuizbowlScoreTracker.pdb
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.Properties.Resources.resources
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.ScoreKeeping.resources
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.exe
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.pdb
