@@ -7,3 +7,4 @@ C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug
 C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.csproj.GenerateResource.Cache
 C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.exe
 C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.pdb
+C:\Users\Eric\Desktop\GitHub\QuizbowlScoreTracker\QuizbowlScoreTracker\obj\Debug\QuizbowlScoreTracker.Statistics.resources
