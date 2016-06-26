@@ -69,6 +69,8 @@ namespace QuizbowlScoreTracker
                 for (int counter = 0; counter < 4; counter++)
                 {
                     string name = textBoxDictionary[counter].Text;
+                    if (name == "" || name == null || (name.Length >= 6 && name.Substring(0,6) == "Player"))
+                        break;
                     List<string> linePortions = new List<string>();
                     for (int x = 0; x < TeamsDict[team].RowCount; x++)
                     {
@@ -158,6 +160,13 @@ namespace QuizbowlScoreTracker
         {
             Statistics stats = new Statistics();
             stats.ShowDialog();
+        }
+
+        private void TextBoxGotFocus(object sender, EventArgs e)
+        {
+            TextBox textBox = (TextBox)sender;
+            textBox.Text = "";
+            textBox.GotFocus -= TextBoxGotFocus;
         }
     }
 }

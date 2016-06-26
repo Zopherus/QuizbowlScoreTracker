@@ -125,6 +125,8 @@
             this.Team1Member1NameTextBox.Name = "Team1Member1NameTextBox";
             this.Team1Member1NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team1Member1NameTextBox.TabIndex = 1;
+            this.Team1Member1NameTextBox.Text = "Player 1";
+            this.Team1Member1NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team1Member2NameTextBox
             // 
@@ -133,6 +135,8 @@
             this.Team1Member2NameTextBox.Name = "Team1Member2NameTextBox";
             this.Team1Member2NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team1Member2NameTextBox.TabIndex = 2;
+            this.Team1Member2NameTextBox.Text = "Player 2";
+            this.Team1Member2NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team1Member3NameTextBox
             // 
@@ -141,6 +145,8 @@
             this.Team1Member3NameTextBox.Name = "Team1Member3NameTextBox";
             this.Team1Member3NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team1Member3NameTextBox.TabIndex = 3;
+            this.Team1Member3NameTextBox.Text = "Player 3";
+            this.Team1Member3NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team1Member4NameTextBox
             // 
@@ -149,6 +155,8 @@
             this.Team1Member4NameTextBox.Name = "Team1Member4NameTextBox";
             this.Team1Member4NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team1Member4NameTextBox.TabIndex = 4;
+            this.Team1Member4NameTextBox.Text = "Player 4";
+            this.Team1Member4NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team1ScoreLabel
             // 
@@ -186,6 +194,8 @@
             this.Team1NameTextBox.Name = "Team1NameTextBox";
             this.Team1NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team1NameTextBox.TabIndex = 8;
+            this.Team1NameTextBox.Text = "Team A";
+            this.Team1NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team2NameTextBox
             // 
@@ -193,6 +203,8 @@
             this.Team2NameTextBox.Name = "Team2NameTextBox";
             this.Team2NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team2NameTextBox.TabIndex = 16;
+            this.Team2NameTextBox.Text = "Team B";
+            this.Team2NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team2Namelabel
             // 
@@ -220,6 +232,8 @@
             this.Team2Member4NameTextBox.Name = "Team2Member4NameTextBox";
             this.Team2Member4NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team2Member4NameTextBox.TabIndex = 13;
+            this.Team2Member4NameTextBox.Text = "Player 4";
+            this.Team2Member4NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team2Member3NameTextBox
             // 
@@ -228,6 +242,8 @@
             this.Team2Member3NameTextBox.Name = "Team2Member3NameTextBox";
             this.Team2Member3NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team2Member3NameTextBox.TabIndex = 12;
+            this.Team2Member3NameTextBox.Text = "Player 3";
+            this.Team2Member3NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team2Member2NameTextBox
             // 
@@ -236,6 +252,8 @@
             this.Team2Member2NameTextBox.Name = "Team2Member2NameTextBox";
             this.Team2Member2NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team2Member2NameTextBox.TabIndex = 11;
+            this.Team2Member2NameTextBox.Text = "Player 2";
+            this.Team2Member2NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team2Member1NameTextBox
             // 
@@ -244,6 +262,8 @@
             this.Team2Member1NameTextBox.Name = "Team2Member1NameTextBox";
             this.Team2Member1NameTextBox.Size = new System.Drawing.Size(100, 20);
             this.Team2Member1NameTextBox.TabIndex = 10;
+            this.Team2Member1NameTextBox.Text = "Player 1";
+            this.Team2Member1NameTextBox.GotFocus += new System.EventHandler(this.TextBoxGotFocus);
             // 
             // Team2Scores
             // 
@@ -305,7 +325,7 @@
             // 
             // StatisticsButton
             // 
-            this.StatisticsButton.Location = new System.Drawing.Point(748, 505);
+            this.StatisticsButton.Location = new System.Drawing.Point(838, 515);
             this.StatisticsButton.Name = "StatisticsButton";
             this.StatisticsButton.Size = new System.Drawing.Size(75, 23);
             this.StatisticsButton.TabIndex = 17;
